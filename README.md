@@ -1,2 +1,6 @@
 # Aid-Managment-System
-Aid management System based on C++ language
+
+Implemented an application that keeps a record of perishable and non- perishable products to be shipped to the victims of a disaster.
+
+Programmed in C++ language using concepts like Interface, Encapsulation and used file I/O for the storage.
+
